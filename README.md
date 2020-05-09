@@ -46,3 +46,6 @@ Dcycle Continuous integration badges
 [![CircleCI](https://circleci.com/gh/dcycle/realistic_dummy_content/tree/master.svg?style=svg)](https://circleci.com/gh/dcycle/realistic_dummy_content/tree/master) | <https://github.com/dcycle/realistic_dummy_content> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-css-lint.svg?style=svg)](https://circleci.com/gh/dcycle/docker-css-lint) | <https://github.com/dcycle/docker-css-lint> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-sass-lint.svg?style=svg)](https://circleci.com/gh/dcycle/docker-sass-lint) | <https://github.com/dcycle/docker-sass-lint> |
+| [![CircleCI](https://circleci.com/gh/dcycle/docker-drupal-reproduce-modulelist.svg?style=svg)](https://circleci.com/gh/dcycle/docker-drupal-reproduce-modulelist) | <https://github.com/dcycle/docker-drupal-reproduce-modulelist> |
+| n/a | <https://github.com/dcycle/docker-shell-lint> |
+| [![CircleCI](https://circleci.com/gh/dcycle/docker-json-lint.svg?style=svg)](https://circleci.com/gh/dcycle/docker-json-lint) | <https://github.com/dcycle/docker-json-lint> |
