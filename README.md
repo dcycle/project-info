@@ -49,3 +49,8 @@ Dcycle Continuous integration badges
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-drupal-reproduce-modulelist.svg?style=svg)](https://circleci.com/gh/dcycle/docker-drupal-reproduce-modulelist) | <https://github.com/dcycle/docker-drupal-reproduce-modulelist> |
 | n/a | <https://github.com/dcycle/docker-shell-lint> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-json-lint.svg?style=svg)](https://circleci.com/gh/dcycle/docker-json-lint) | <https://github.com/dcycle/docker-json-lint> |
+
+The favicon
+-----
+
+Generated using [Favicon Generator](https://favicon.io/favicon-generator/) with "D", font "Allerta", color "#00F"
