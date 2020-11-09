@@ -3,6 +3,8 @@ Dcycle Continuous integration badges
 
 | Status       | Project | Stage | Prod | Server | 
 |------------|---------|--|--|--|
+| [![CircleCI](https://circleci.com/gh/dcycle/watchdog_watchdog.svg?style=svg)](https://circleci.com/gh/dcycle/watchdog_watchdog)
+ | <http://github.com/dcycle/watchdog_watchdog> | | | |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-broken-link-checker/tree/master.svg?style=svg)](https://circleci.com/gh/dcycle/docker-broken-link-checker/tree/master) | <https://ci.dcycle.com/job/docker-broken-link-checker/> |
 | [![CircleCI](https://circleci.com/gh/dcycle/starterkit-drupal8site.svg?style=svg)](https://circleci.com/gh/dcycle/starterkit-drupal8site) | <https://github.com/dcycle/starterkit-drupal8site> |
 | [![CircleCI](https://circleci.com/gh/dcycle/drupal_yext.svg?style=svg)](https://circleci.com/gh/dcycle/drupal_yext) | <https://github.com/dcycle/drupal_yext> |
