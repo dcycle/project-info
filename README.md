@@ -6,7 +6,7 @@ Dcycle Continuous integration badges
 | [![CircleCI](https://circleci.com/gh/dcycle/watchdog_watchdog.svg?style=svg)](https://circleci.com/gh/dcycle/watchdog_watchdog) | <http://github.com/dcycle/watchdog_watchdog> | | | |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-broken-link-checker/tree/master.svg?style=svg)](https://circleci.com/gh/dcycle/docker-broken-link-checker/tree/master) | <https://ci.dcycle.com/job/docker-broken-link-checker/> |
 | [![CircleCI](https://circleci.com/gh/dcycle/starterkit-drupal8site.svg?style=svg)](https://circleci.com/gh/dcycle/starterkit-drupal8site) | <https://github.com/dcycle/starterkit-drupal8site> (d9, default branch) |
-| [![CircleCI](https://circleci.com/gh/dcycle/starterkit-drupal8site/master.svg?style=svg)](https://circleci.com/gh/dcycle/starterkit-drupal8site/master) | <https://github.com/dcycle/starterkit-drupal8site> (d8, master branch) |
+| [![CircleCI](https://circleci.com/gh/dcycle/starterkit-drupal8site/tree/master.svg?style=svg)](https://circleci.com/gh/dcycle/starterkit-drupal8site/tree/master) | <https://github.com/dcycle/starterkit-drupal8site> (d8, master branch) |
 | [![CircleCI](https://circleci.com/gh/dcycle/drupal_yext.svg?style=svg)](https://circleci.com/gh/dcycle/drupal_yext) | <https://github.com/dcycle/drupal_yext> |
 | [![CircleCI](https://circleci.com/gh/dcycle/starterkit-php.svg?style=svg)](https://circleci.com/gh/dcycle/starterkit-php) | <https://github.com/dcycle/starterkit-php> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-ledger.svg?style=svg)](https://circleci.com/gh/dcycle/docker-ledger) | <https://github.com/dcycle/docker-ledger> |
