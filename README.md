@@ -29,7 +29,6 @@ Dcycle Continuous integration badges
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-markdown-lint.svg?style=svg)](https://circleci.com/gh/dcycle/docker-markdown-lint) | <https://github.com/dcycle/docker-markdown-lint> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-drupal.svg?style=svg)](https://circleci.com/gh/dcycle/docker-drupal) | <https://github.com/dcycle/docker-drupal> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-drupal-check.svg?style=svg)](https://circleci.com/gh/dcycle/docker-drupal-check) | <https://github.com/dcycle/docker-drupal-check> |
-| [![CircleCI](https://circleci.com/gh/dcycle/docker-php-code-quality.svg?style=svg)](https://circleci.com/gh/dcycle/docker-php-code-quality) | <https://github.com/dcycle/docker-php-code-quality> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-md2html.svg?style=svg)](https://circleci.com/gh/dcycle/docker-md2html) | <https://github.com/dcycle/docker-md2html> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-js-lint.svg?style=svg)](https://circleci.com/gh/dcycle/docker-js-lint) | <https://github.com/dcycle/docker-js-lint> |
 | [![CircleCI](https://circleci.com/gh/dcycle/drupal-purge-demo.svg?style=svg)](https://circleci.com/gh/dcycle/drupal-purge-demo) | <https://github.com/dcycle/drupal-purge-demo> |
