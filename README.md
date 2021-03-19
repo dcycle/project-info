@@ -42,7 +42,6 @@ Projects
 | [![CircleCI](https://circleci.com/gh/dcycle/drupal-purge-demo.svg?style=svg)](https://circleci.com/gh/dcycle/drupal-purge-demo) | <https://github.com/dcycle/drupal-purge-demo> |
 | [![CircleCI](https://circleci.com/gh/dcycle/drupal_inquicker.svg?style=svg)](https://circleci.com/gh/dcycle/drupal_inquicker) | <https://github.com/dcycle/drupal_inquicker> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-pa11y.svg?style=svg)](https://circleci.com/gh/dcycle/docker-pa11y) | <https://github.com/dcycle/docker-pa11y> |
-| [![CircleCI](https://circleci.com/gh/dcycle/docker-doctl.svg?style=svg)](https://circleci.com/gh/dcycle/docker-doctl) | <https://github.com/dcycle/docker-doctl> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-browsertesting/tree/3.svg?style=svg)](https://circleci.com/gh/dcycle/docker-browsertesting/tree/3) | <https://github.com/dcycle/docker-browsertesting> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-digitalocean-php.svg?style=svg)](https://circleci.com/gh/dcycle/docker-digitalocean-php) | <https://github.com/dcycle/docker-digitalocean-php> |
 | [![CircleCI](https://circleci.com/gh/dcycle/closest_zip_code.svg?style=svg)](https://circleci.com/gh/dcycle/closest_zip_code) | <https://github.com/dcycle/closest_zip_code> |
