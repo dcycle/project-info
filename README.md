@@ -43,7 +43,6 @@ Projects
 | [![CircleCI](https://circleci.com/gh/dcycle/drupal_inquicker.svg?style=svg)](https://circleci.com/gh/dcycle/drupal_inquicker) | <https://github.com/dcycle/drupal_inquicker> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-pa11y.svg?style=svg)](https://circleci.com/gh/dcycle/docker-pa11y) | <https://github.com/dcycle/docker-pa11y> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-browsertesting/tree/3.svg?style=svg)](https://circleci.com/gh/dcycle/docker-browsertesting/tree/3) | <https://github.com/dcycle/docker-browsertesting> |
-| [![CircleCI](https://circleci.com/gh/dcycle/docker-digitalocean-php.svg?style=svg)](https://circleci.com/gh/dcycle/docker-digitalocean-php) | <https://github.com/dcycle/docker-digitalocean-php> |
 | [![CircleCI](https://circleci.com/gh/dcycle/closest_zip_code.svg?style=svg)](https://circleci.com/gh/dcycle/closest_zip_code) | <https://github.com/dcycle/closest_zip_code> |
 | [![CircleCI](https://circleci.com/gh/dcycle/webform_submission_change_history.svg?style=svg)](https://circleci.com/gh/dcycle/webform_submission_change_history) | <https://github.com/dcycle/webform_submission_change_history> |
 | [![CircleCI](https://circleci.com/gh/dcycle/d6_to_d8_migration_example/tree/6.svg?style=svg)](https://circleci.com/gh/dcycle/d6_to_d8_migration_example/tree/6)<br/>[![CircleCI](https://circleci.com/gh/dcycle/d6_to_d8_migration_example/tree/7.svg?style=svg)](https://circleci.com/gh/dcycle/d6_to_d8_migration_example/tree/7) | <https://github.com/dcycle/d6_to_d8_migration_example> |
