@@ -45,7 +45,6 @@ Projects
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-browsertesting/tree/3.svg?style=svg)](https://circleci.com/gh/dcycle/docker-browsertesting/tree/3) | <https://github.com/dcycle/docker-browsertesting> |
 | [![CircleCI](https://circleci.com/gh/dcycle/closest_zip_code.svg?style=svg)](https://circleci.com/gh/dcycle/closest_zip_code) | <https://github.com/dcycle/closest_zip_code> |
 | [![CircleCI](https://circleci.com/gh/dcycle/webform_submission_change_history.svg?style=svg)](https://circleci.com/gh/dcycle/webform_submission_change_history) | <https://github.com/dcycle/webform_submission_change_history> |
-| [![CircleCI](https://circleci.com/gh/dcycle/d6_to_d8_migration_example/tree/6.svg?style=svg)](https://circleci.com/gh/dcycle/d6_to_d8_migration_example/tree/6)<br/>[![CircleCI](https://circleci.com/gh/dcycle/d6_to_d8_migration_example/tree/7.svg?style=svg)](https://circleci.com/gh/dcycle/d6_to_d8_migration_example/tree/7) | <https://github.com/dcycle/d6_to_d8_migration_example> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-python-lint.svg?style=svg)](https://circleci.com/gh/dcycle/docker-python-lint) | <https://github.com/dcycle/docker-python-lint> |
 | [![CircleCI](https://circleci.com/gh/dcycle/realistic_dummy_content/tree/7.x-1.x.svg?style=svg)](https://circleci.com/gh/dcycle/realistic_dummy_content/tree/7.x-1.x)<br/>
 [![CircleCI](https://circleci.com/gh/dcycle/realistic_dummy_content/tree/7.x-2.x.svg?style=svg)](https://circleci.com/gh/dcycle/realistic_dummy_content/tree/7.x-2.x)<br/>
