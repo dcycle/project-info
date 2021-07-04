@@ -46,10 +46,6 @@ Projects
 | [![CircleCI](https://circleci.com/gh/dcycle/closest_zip_code.svg?style=svg)](https://circleci.com/gh/dcycle/closest_zip_code) | <https://github.com/dcycle/closest_zip_code> |
 | [![CircleCI](https://circleci.com/gh/dcycle/webform_submission_change_history.svg?style=svg)](https://circleci.com/gh/dcycle/webform_submission_change_history) | <https://github.com/dcycle/webform_submission_change_history> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-python-lint.svg?style=svg)](https://circleci.com/gh/dcycle/docker-python-lint) | <https://github.com/dcycle/docker-python-lint> |
-| [![CircleCI](https://circleci.com/gh/dcycle/realistic_dummy_content/tree/7.x-1.x.svg?style=svg)](https://circleci.com/gh/dcycle/realistic_dummy_content/tree/7.x-1.x)<br/>
-[![CircleCI](https://circleci.com/gh/dcycle/realistic_dummy_content/tree/7.x-2.x.svg?style=svg)](https://circleci.com/gh/dcycle/realistic_dummy_content/tree/7.x-2.x)<br/>
-[![CircleCI](https://circleci.com/gh/dcycle/realistic_dummy_content/tree/8.x-2.x.svg?style=svg)](https://circleci.com/gh/dcycle/realistic_dummy_content/tree/8.x-2.x)<br/>
-[![CircleCI](https://circleci.com/gh/dcycle/realistic_dummy_content/tree/master.svg?style=svg)](https://circleci.com/gh/dcycle/realistic_dummy_content/tree/master) | <https://github.com/dcycle/realistic_dummy_content> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-css-lint.svg?style=svg)](https://circleci.com/gh/dcycle/docker-css-lint) | <https://github.com/dcycle/docker-css-lint> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-sass-lint.svg?style=svg)](https://circleci.com/gh/dcycle/docker-sass-lint) | <https://github.com/dcycle/docker-sass-lint> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-drupal-reproduce-modulelist.svg?style=svg)](https://circleci.com/gh/dcycle/docker-drupal-reproduce-modulelist) | <https://github.com/dcycle/docker-drupal-reproduce-modulelist> |
