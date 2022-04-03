@@ -11,7 +11,7 @@ Projects
 
 | Status       | Project | Stage | Prod | Server | 
 |------------|---------|--|--|--|
-| [![CircleCI](https://circleci.com/gh/hatch/paymo-dashboard/tree/master.svg?style=svg)](https://circleci.com/gh/hatch/paymo-dashboard/tree/master) | <http://github.com/hatch/paymo-dashboard> | | | |
+| [![CircleCI](https://circleci.com/gh/hatch130/paymo-dashboard/tree/master.svg?style=svg&circle-token=2e1a83c27e35e87eebc461c9bfa34ce909e97880)](https://circleci.com/gh/hatch130/paymo-dashboard/tree/master) | <http://github.com/hatch/paymo-dashboard> | | | |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-html-validate.svg?style=svg)](https://circleci.com/gh/dcycle/docker-html-validate) | <http://github.com/dcycle/docker-html-validate> | | | |
 | [![CircleCI](https://circleci.com/gh/dcycle/entity_inherit.svg?style=svg)](https://circleci.com/gh/dcycle/entity_inherit) | <https://github.com/dcycle/entity_inherit> | | | |
 | [![CircleCI](https://circleci.com/gh/dcycle/watchdog_watchdog.svg?style=svg)](https://circleci.com/gh/dcycle/watchdog_watchdog) | <http://github.com/dcycle/watchdog_watchdog> | | | |
