@@ -44,7 +44,6 @@ Projects
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-drupal-check.svg?style=svg)](https://circleci.com/gh/dcycle/docker-drupal-check) | <https://github.com/dcycle/docker-drupal-check> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-md2html.svg?style=svg)](https://circleci.com/gh/dcycle/docker-md2html) | <https://github.com/dcycle/docker-md2html> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-js-lint.svg?style=svg)](https://circleci.com/gh/dcycle/docker-js-lint) | <https://github.com/dcycle/docker-js-lint> |
-| [![CircleCI](https://circleci.com/gh/dcycle/drupal-purge-demo.svg?style=svg)](https://circleci.com/gh/dcycle/drupal-purge-demo) | <https://github.com/dcycle/drupal-purge-demo> |
 | [![CircleCI](https://circleci.com/gh/dcycle/drupal_inquicker.svg?style=svg)](https://circleci.com/gh/dcycle/drupal_inquicker) | <https://github.com/dcycle/drupal_inquicker> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-pa11y.svg?style=svg)](https://circleci.com/gh/dcycle/docker-pa11y) | <https://github.com/dcycle/docker-pa11y> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-browsertesting/tree/master.svg?style=svg)](https://circleci.com/gh/dcycle/docker-browsertesting/tree/master) | <https://github.com/dcycle/docker-browsertesting> |
