@@ -48,7 +48,6 @@ Projects
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-pa11y.svg?style=svg)](https://circleci.com/gh/dcycle/docker-pa11y) | <https://github.com/dcycle/docker-pa11y> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-browsertesting/tree/master.svg?style=svg)](https://circleci.com/gh/dcycle/docker-browsertesting/tree/master) | <https://github.com/dcycle/docker-browsertesting> |
 | [![CircleCI](https://circleci.com/gh/dcycle/closest_zip_code.svg?style=svg)](https://circleci.com/gh/dcycle/closest_zip_code) | <https://github.com/dcycle/closest_zip_code> |
-| [![CircleCI](https://circleci.com/gh/dcycle/webform_submission_change_history.svg?style=svg)](https://circleci.com/gh/dcycle/webform_submission_change_history) | <https://github.com/dcycle/webform_submission_change_history> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-python-lint.svg?style=svg)](https://circleci.com/gh/dcycle/docker-python-lint) | <https://github.com/dcycle/docker-python-lint> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-css-lint.svg?style=svg)](https://circleci.com/gh/dcycle/docker-css-lint) | <https://github.com/dcycle/docker-css-lint> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-sass-lint.svg?style=svg)](https://circleci.com/gh/dcycle/docker-sass-lint) | <https://github.com/dcycle/docker-sass-lint> |
