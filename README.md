@@ -5,7 +5,7 @@ Steward Projects
 
 | Name | Status     | GitHub   |
 |------|------------|----------|
-| Personalization | [![CircleCI](https://circleci.com/gh/hatch130/steward-personalization/tree/master.svg?style=svg)](https://circleci.com/gh/hatch130/steward-personalization/tree/master) | [GitHub](https://github.com/hatch130/steward-personalization) |
+| Personalization | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/steward-personalization/tree/master.svg?style=svg&circle-token=e4c160445a7841c411e5a1b67b03661464e4c62f)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/steward-personalization/tree/master) | [GitHub](https://github.com/hatch130/steward-personalization) |
 
 Projects
 
