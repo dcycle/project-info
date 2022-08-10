@@ -1,11 +1,11 @@
 Dcycle Continuous integration badges
 =====
 
-Websites
+Steward Projects
 
-| Website | Client | Technology | Hosting | Code | Badge |
-|---------|--------|------------|---------|------|-------|
-| https://www.toutnaturelcaraibes.org | Tout Naturel Caraïbes | Jekyll | GitHub Pages | https://github.com/maisonverte/maisonverte | [![CircleCI](https://circleci.com/gh/maisonverte/maisonverte/tree/master.svg?style=svg)](https://circleci.com/gh/maisonverte/maisonverte/tree/master) |
+| Status     | GitHub   |
+|------------|----------|
+| [![CircleCI](https://circleci.com/gh/hatch130/steward-personalization/tree/master.svg?style=svg)](https://circleci.com/gh/hatch130/steward-personalization/tree/master) | [GitHub](https://github.com/hatch130/steward-personalization) |
 
 Projects
 
