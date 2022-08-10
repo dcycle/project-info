@@ -3,9 +3,9 @@ Dcycle Continuous integration badges
 
 Steward Projects
 
-| Status     | GitHub   |
-|------------|----------|
-| [![CircleCI](https://circleci.com/gh/hatch130/steward-personalization/tree/master.svg?style=svg)](https://circleci.com/gh/hatch130/steward-personalization/tree/master) | [GitHub](https://github.com/hatch130/steward-personalization) |
+| Name | Status     | GitHub   |
+|------|------------|----------|
+| Personalization | [![CircleCI](https://circleci.com/gh/hatch130/steward-personalization/tree/master.svg?style=svg)](https://circleci.com/gh/hatch130/steward-personalization/tree/master) | [GitHub](https://github.com/hatch130/steward-personalization) |
 
 Projects
 
