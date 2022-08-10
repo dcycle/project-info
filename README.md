@@ -5,6 +5,7 @@ Steward Projects
 
 | Name | Status     | GitHub   |
 |------|------------|----------|
+| Microservices   | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/steward-microservices-base/tree/master.svg?style=svg&circle-token=5526ea5ae425cbc5c93b3f4b423c9abde9606c7f)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/steward-microservices-base/tree/master) | [GitHub](https://github.com/hatch130/steward-microservices-base) |
 | Personalization | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/steward-personalization/tree/master.svg?style=svg&circle-token=e4c160445a7841c411e5a1b67b03661464e4c62f)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/steward-personalization/tree/master) | [GitHub](https://github.com/hatch130/steward-personalization) |
 
 Projects
