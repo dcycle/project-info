@@ -1,13 +1,23 @@
 Dcycle Continuous integration badges
 =====
 
+Steward Acquia environments
+
+| id                | name               |
+|-------------------|--------------------|
+| stewardphysicians | Steward Cohesion   |
+| stewardhospitals  | Steward Hospitals  |
+| stewardhub        | Steward Hub        |
+| stewardd8         | Steward Multisite  |
+| stewardcommunity  | stewardcommunity   |
+
 Steward Projects
 
-| Name | Status     | GitHub   |
-|------|------------|----------|
-| Microservices   | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/steward-microservices-base/tree/master.svg?style=svg&circle-token=5526ea5ae425cbc5c93b3f4b423c9abde9606c7f)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/steward-microservices-base/tree/master) | [GitHub](https://github.com/hatch130/steward-microservices-base) |
-| Personalization | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/steward-personalization/tree/master.svg?style=svg&circle-token=e4c160445a7841c411e5a1b67b03661464e4c62f)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/steward-personalization/tree/master) | [GitHub](https://github.com/hatch130/steward-personalization) |
-| Events | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/steward-events/tree/master.svg?style=svg&circle-token=fa2ad10dd84c7f0dc5642a7ef98518b77898cec4)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/steward-events/tree/master) | [GitHub](https://github.com/hatch130/steward-events) |
+| Name | Status     | GitHub   | Host          |
+|------|------------|----------|---------------|
+| Microservices   | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/steward-microservices-base/tree/master.svg?style=svg&circle-token=5526ea5ae425cbc5c93b3f4b423c9abde9606c7f)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/steward-microservices-base/tree/master) | [GitHub](https://github.com/hatch130/steward-microservices-base) | Acquia stewardcommunity |
+| Personalization | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/steward-personalization/tree/master.svg?style=svg&circle-token=e4c160445a7841c411e5a1b67b03661464e4c62f)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/steward-personalization/tree/master) | [GitHub](https://github.com/hatch130/steward-personalization) | Acquia stewardcommunity |
+| Events | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/steward-events/tree/master.svg?style=svg&circle-token=fa2ad10dd84c7f0dc5642a7ef98518b77898cec4)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/steward-events/tree/master) | [GitHub](https://github.com/hatch130/steward-events) | Acquia stewardcommunity |
 
 Drupal Modules
 
