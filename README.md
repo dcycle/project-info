@@ -23,7 +23,8 @@ Drupal Modules
 
 | Name             | Status    | GitHub               | Drupal  | Weekly |
 |------------------|-----------|----------------------|---------|--------|
-| drupal_inquicker | [![CircleCI](https://circleci.com/gh/dcycle/drupal_inquicker/tree/2.x.svg?style=svg)](https://circleci.com/gh/dcycle/drupal_inquicker/tree/2.x) | [GitHub](https://github.com/dcycle/drupal_inquicker) | [Drupal](http://drupal.org/project/drupal_inquicker/issues/3302901) | [GH triggers](https://app.circleci.com/settings/project/github/dcycle/drupal_inquicker/triggers?return-to=https%3A%2F%2Fapp.circleci.com%2Fpipelines%2Fgithub%2Fdcycle%2Fdrupal_inquicker&success=true) |
+| drupal_inquicker | [![CircleCI](https://circleci.com/gh/dcycle/drupal_inquicker/tree/2.x.svg?style=svg)](https://circleci.com/gh/dcycle/drupal_inquicker/tree/2.x) | [GitHub](https://github.com/dcycle/drupal_inquicker) | [Drupal](http://drupal.org/project/drupal_inquicker) | [GH triggers](https://app.circleci.com/settings/project/github/dcycle/drupal_inquicker/triggers) |
+| webhook_receiver | [![CircleCI](https://circleci.com/gh/dcycle/webhook_receiver/tree/1.x.svg?style=svg)](https://circleci.com/gh/dcycle/webhook_receiver/tree/1.x) | [GitHub](https://github.com/dcycle/webhook_receiver) | [Drupal](http://drupal.org/project/webhook_receiver) | [GH triggers](https://app.circleci.com/settings/project/github/dcycle/webhook_receiver/triggers) |
 
 Projects
 
