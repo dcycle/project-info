@@ -31,7 +31,7 @@ Projects
 
 | Status       | Project | Stage | Prod | Server | 
 |------------|---------|--|--|--|
-| [![CircleCI](https://circleci.com/gh/hatch130/ahora-frontend/tree/master.svg?style=svg&circle-token=691b3d22542e912af3b09a661b3f002027789d0a)](https://circleci.com/gh/hatch130/ahora-frontend/tree/master) | <http://github.com/hatch130/ahora-frontend> (PAUSED ON PAYMENT) | | | |
+| [![CircleCI](https://circleci.com/gh/hatch130/ahora-frontend/tree/master.svg?style=svg&circle-token=691b3d22542e912af3b09a661b3f002027789d0a)](https://circleci.com/gh/hatch130/ahora-frontend/tree/master) | <http://github.com/hatch130/ahora-frontend> | | | |
 | [![CircleCI](https://circleci.com/gh/dcycle/starterkit-jekyll/tree/master.svg?style=svg)](https://circleci.com/gh/dcycle/starterkit-jekyll/tree/master) | <https://github.com/dcycle/starterkit-jekyll> | | | |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-webgrind.svg?style=svg)](https://circleci.com/gh/dcycle/docker-webgrind) | <https://github.com/dcycle/docker-webgrind> | | | |
 | [![CircleCI](https://circleci.com/gh/hatch130/paymo-dashboard/tree/master.svg?style=svg&circle-token=2e1a83c27e35e87eebc461c9bfa34ce909e97880)](https://circleci.com/gh/hatch130/paymo-dashboard/tree/master) | <http://github.com/hatch/paymo-dashboard> | | | |
