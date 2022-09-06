@@ -13,11 +13,11 @@ Steward Acquia environments
 
 Steward Projects
 
-| Name | Status     | GitHub   | Host          |
-|------|------------|----------|---------------|
-| Microservices   | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/steward-microservices-base/tree/master.svg?style=svg&circle-token=5526ea5ae425cbc5c93b3f4b423c9abde9606c7f)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/steward-microservices-base/tree/master) | [GitHub](https://github.com/hatch130/steward-microservices-base) | Acquia stewardcommunity |
-| Personalization | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/steward-personalization/tree/master.svg?style=svg&circle-token=e4c160445a7841c411e5a1b67b03661464e4c62f)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/steward-personalization/tree/master) | [GitHub](https://github.com/hatch130/steward-personalization) | Acquia stewardcommunity |
-| Events | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/steward-events/tree/master.svg?style=svg&circle-token=fa2ad10dd84c7f0dc5642a7ef98518b77898cec4)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/steward-events/tree/master) | [GitHub](https://github.com/hatch130/steward-events) | Acquia stewardcommunity |
+| Name | Status     | GitHub   | Host          | Cron |
+|------|------------|----------|---------------|------|
+| Microservices   | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/steward-microservices-base/tree/master.svg?style=svg&circle-token=5526ea5ae425cbc5c93b3f4b423c9abde9606c7f)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/steward-microservices-base/tree/master) | [GitHub](https://github.com/hatch130/steward-microservices-base) | Acquia stewardcommunity | Acq. |
+| Personalization | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/steward-personalization/tree/master.svg?style=svg&circle-token=e4c160445a7841c411e5a1b67b03661464e4c62f)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/steward-personalization/tree/master) | [GitHub](https://github.com/hatch130/steward-personalization) | Acquia stewardcommunity | Acq. |
+| Events | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/steward-events/tree/master.svg?style=svg&circle-token=fa2ad10dd84c7f0dc5642a7ef98518b77898cec4)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/steward-events/tree/master) | [GitHub](https://github.com/hatch130/steward-events) | Acquia stewardcommunity | Acq. |
 
 Drupal Modules
 
