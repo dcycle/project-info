@@ -23,9 +23,15 @@ Drupal Modules
 
 | Name             | Status    | GitHub               | Drupal  | Weekly | D version |
 |------------------|-----------|----------------------|---------|--------|-----------|
-| drupal_inquicker | [![CircleCI](https://circleci.com/gh/dcycle/drupal_inquicker/tree/2.x.svg?style=svg)](https://circleci.com/gh/dcycle/drupal_inquicker/tree/2.x) | [GitHub](https://github.com/dcycle/drupal_inquicker) | [Drupal](http://drupal.org/project/drupal_inquicker) | [GH triggers](https://app.circleci.com/settings/project/github/dcycle/drupal_inquicker/triggers) | 9 |
-| webhook_receiver | [![CircleCI](https://circleci.com/gh/dcycle/webhook_receiver/tree/1.x.svg?style=svg)](https://circleci.com/gh/dcycle/webhook_receiver/tree/1.x) | [GitHub](https://github.com/dcycle/webhook_receiver) | [Drupal](http://drupal.org/project/webhook_receiver) | [GH triggers](https://app.circleci.com/settings/project/github/dcycle/webhook_receiver/triggers) | 10 |
-| eventbrite_one_way_sync | [![CircleCI](https://circleci.com/gh/dcycle/eventbrite_one_way_sync/tree/1.x.svg?style=svg)](https://circleci.com/gh/dcycle/eventbrite_one_way_sync/tree/1.x) | [GitHub](https://github.com/dcycle/eventbrite_one_way_sync) | [Drupal](http://drupal.org/project/eventbrite_one_way_sync) | [GH triggers](https://app.circleci.com/settings/project/github/dcycle/eventbrite_one_way_sync/triggers) | 10 |
+| drupal_inquicker | [![CircleCI](https://circleci.com/gh/dcycle/drupal_inquicker/tree/2.x.svg?style=svg)](https://circleci.com/gh/dcycle/drupal_inquicker/tree/2.x) | [GitHub](https://github.com/dcycle/drupal_inquicker) | [Drupal](http://drupal.org/project/drupal_inquicker) | [CI triggers](https://app.circleci.com/settings/project/github/dcycle/drupal_inquicker/triggers) | 9 |
+| webhook_receiver | [![CircleCI](https://circleci.com/gh/dcycle/webhook_receiver/tree/1.x.svg?style=svg)](https://circleci.com/gh/dcycle/webhook_receiver/tree/1.x) | [GitHub](https://github.com/dcycle/webhook_receiver) | [Drupal](http://drupal.org/project/webhook_receiver) | [CI triggers](https://app.circleci.com/settings/project/github/dcycle/webhook_receiver/triggers) | 10 |
+| eventbrite_one_way_sync | [![CircleCI](https://circleci.com/gh/dcycle/eventbrite_one_way_sync/tree/1.x.svg?style=svg)](https://circleci.com/gh/dcycle/eventbrite_one_way_sync/tree/1.x) | [GitHub](https://github.com/dcycle/eventbrite_one_way_sync) | [Drupal](http://drupal.org/project/eventbrite_one_way_sync) | [CI triggers](https://app.circleci.com/settings/project/github/dcycle/eventbrite_one_way_sync/triggers) | 10 |
+
+Websites
+
+| Name       | Code                                               | Provider    | prod                         | status | weekly |
+|------------|----------------------------------------------------|-------------|------------------------------|--------|--------|
+| StaticAuth | [Invoice](https://github.com/alberto56/staticauth) | D.O. albert | <https://www.staticauth.com> | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/alberto56/staticauth/tree/master.svg?style=svg&circle-token=bb632df7af30e5eaec5ae9c0109c64e833dae6b2)](https://dl.circleci.com/status-badge/redirect/gh/alberto56/staticauth/tree/master) | [CI triggers](https://app.circleci.com/settings/project/github/alberto56/staticauth/triggers?return-to=https%3A%2F%2Fapp.circleci.com%2Fpipelines%2Fgithub%2Falberto56%2Fstaticauth&success=true) |
 
 Projects
 
