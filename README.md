@@ -18,6 +18,8 @@ Steward Projects
 | Microservices   | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/steward-microservices-base/tree/master.svg?style=svg&circle-token=5526ea5ae425cbc5c93b3f4b423c9abde9606c7f)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/steward-microservices-base/tree/master) | [GitHub](https://github.com/hatch130/steward-microservices-base) | Acquia stewardcommunity | [Acq.](https://cloud.acquia.com/a/environments/52144-c639f3c4-78b1-473b-8669-8082d3506e52/cron) |
 | Personalization | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/steward-personalization/tree/master.svg?style=svg&circle-token=e4c160445a7841c411e5a1b67b03661464e4c62f)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/steward-personalization/tree/master) | [GitHub](https://github.com/hatch130/steward-personalization) | Acquia stewardcommunity | [Acq.](https://cloud.acquia.com/a/environments/52144-c639f3c4-78b1-473b-8669-8082d3506e52/cron) |
 | Events | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/steward-events/tree/master.svg?style=svg&circle-token=fa2ad10dd84c7f0dc5642a7ef98518b77898cec4)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/steward-events/tree/master) | [GitHub](https://github.com/hatch130/steward-events) | Acquia stewardcommunity | [Acq.](https://cloud.acquia.com/a/environments/52144-c639f3c4-78b1-473b-8669-8082d3506e52/cron) |
+| Feed |  | [GitHub](https://github.com/hatch130/steward-feed) |  |  |
+| ID |  | [GitHub](https://github.com/hatch130/steward-id) |  |  |
 
 Drupal Modules
 
