@@ -28,6 +28,8 @@ Drupal Modules
 | drupal_inquicker | [![CircleCI](https://circleci.com/gh/dcycle/drupal_inquicker/tree/2.x.svg?style=svg)](https://circleci.com/gh/dcycle/drupal_inquicker/tree/2.x) | [GitHub](https://github.com/dcycle/drupal_inquicker) | [Drupal](http://drupal.org/project/drupal_inquicker) | [CI triggers](https://app.circleci.com/settings/project/github/dcycle/drupal_inquicker/triggers) | 9 |
 | webhook_receiver | [![CircleCI](https://circleci.com/gh/dcycle/webhook_receiver/tree/1.x.svg?style=svg)](https://circleci.com/gh/dcycle/webhook_receiver/tree/1.x) | [GitHub](https://github.com/dcycle/webhook_receiver) | [Drupal](http://drupal.org/project/webhook_receiver) | [CI triggers](https://app.circleci.com/settings/project/github/dcycle/webhook_receiver/triggers) | 10 |
 | eventbrite_one_way_sync | [![CircleCI](https://circleci.com/gh/dcycle/eventbrite_one_way_sync/tree/1.x.svg?style=svg)](https://circleci.com/gh/dcycle/eventbrite_one_way_sync/tree/1.x) | [GitHub](https://github.com/dcycle/eventbrite_one_way_sync) | [Drupal](http://drupal.org/project/eventbrite_one_way_sync) | [CI triggers](https://app.circleci.com/settings/project/github/dcycle/eventbrite_one_way_sync/triggers) | 10 |
+| entity_inherit | [![CircleCI](https://circleci.com/gh/dcycle/entity_inherit/tree/4.x.svg?style=svg)](https://circleci.com/gh/dcycle/entity_inherit/tree/4.x) | [GitHub](https://github.com/dcycle/entity_inherit) | [Drupal](http://drupal.org/project/entity_inherit) | [CI triggers](https://app.circleci.com/settings/project/github/dcycle/entity_inherit/triggers) | 10 |
+
 
 Websites
 
@@ -44,7 +46,6 @@ Projects
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-webgrind.svg?style=svg)](https://circleci.com/gh/dcycle/docker-webgrind) | <https://github.com/dcycle/docker-webgrind> | | | |
 | [![CircleCI](https://circleci.com/gh/hatch130/paymo-dashboard/tree/master.svg?style=svg&circle-token=2e1a83c27e35e87eebc461c9bfa34ce909e97880)](https://circleci.com/gh/hatch130/paymo-dashboard/tree/master) | <http://github.com/hatch/paymo-dashboard> | | | |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-html-validate.svg?style=svg)](https://circleci.com/gh/dcycle/docker-html-validate) | <http://github.com/dcycle/docker-html-validate> | | | |
-| [![CircleCI](https://circleci.com/gh/dcycle/entity_inherit.svg?style=svg)](https://circleci.com/gh/dcycle/entity_inherit) | <https://github.com/dcycle/entity_inherit> | | | |
 | [![CircleCI](https://circleci.com/gh/dcycle/watchdog_watchdog.svg?style=svg)](https://circleci.com/gh/dcycle/watchdog_watchdog) | <http://github.com/dcycle/watchdog_watchdog> | | | |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-broken-link-checker/tree/master.svg?style=svg)](https://circleci.com/gh/dcycle/docker-broken-link-checker/tree/master) | <https://ci.dcycle.com/job/docker-broken-link-checker/> |
 | [![CircleCI](https://circleci.com/gh/dcycle/starterkit-drupalsite/tree/9.svg?style=svg)](https://circleci.com/gh/dcycle/starterkit-drupalsite/tree/9) | <https://github.com/dcycle/starterkit-drupalsite> (d9, default branch) |
