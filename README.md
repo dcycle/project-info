@@ -25,7 +25,6 @@ Drupal Modules
 
 | Name             | Status    | GitHub               | Drupal  | Weekly | D version |
 |------------------|-----------|----------------------|---------|--------|-----------|
-| drupal_inquicker | [![CircleCI](https://circleci.com/gh/dcycle/drupal_inquicker/tree/2.x.svg?style=svg)](https://circleci.com/gh/dcycle/drupal_inquicker/tree/2.x) | [GitHub](https://github.com/dcycle/drupal_inquicker) | [Drupal](http://drupal.org/project/drupal_inquicker) | [CI triggers](https://app.circleci.com/settings/project/github/dcycle/drupal_inquicker/triggers) | 9 |
 | webhook_receiver | [![CircleCI](https://circleci.com/gh/dcycle/webhook_receiver/tree/1.x.svg?style=svg)](https://circleci.com/gh/dcycle/webhook_receiver/tree/1.x) | [GitHub](https://github.com/dcycle/webhook_receiver) | [Drupal](http://drupal.org/project/webhook_receiver) | [CI triggers](https://app.circleci.com/settings/project/github/dcycle/webhook_receiver/triggers) | 10 |
 | eventbrite_one_way_sync | [![CircleCI](https://circleci.com/gh/dcycle/eventbrite_one_way_sync/tree/1.x.svg?style=svg)](https://circleci.com/gh/dcycle/eventbrite_one_way_sync/tree/1.x) | [GitHub](https://github.com/dcycle/eventbrite_one_way_sync) | [Drupal](http://drupal.org/project/eventbrite_one_way_sync) | [CI triggers](https://app.circleci.com/settings/project/github/dcycle/eventbrite_one_way_sync/triggers) | 10 |
 | entity_inherit | [![CircleCI](https://circleci.com/gh/dcycle/entity_inherit/tree/4.x.svg?style=svg)](https://circleci.com/gh/dcycle/entity_inherit/tree/4.x) | [GitHub](https://github.com/dcycle/entity_inherit) | [Drupal](http://drupal.org/project/entity_inherit) | [CI triggers](https://app.circleci.com/settings/project/github/dcycle/entity_inherit/triggers) | 10 |
@@ -73,7 +72,6 @@ Projects
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-drupal-check.svg?style=svg)](https://circleci.com/gh/dcycle/docker-drupal-check) | <https://github.com/dcycle/docker-drupal-check> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-md2html.svg?style=svg)](https://circleci.com/gh/dcycle/docker-md2html) | <https://github.com/dcycle/docker-md2html> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-js-lint.svg?style=svg)](https://circleci.com/gh/dcycle/docker-js-lint) | <https://github.com/dcycle/docker-js-lint> |
-| [![CircleCI](https://circleci.com/gh/dcycle/drupal_inquicker.svg?style=svg)](https://circleci.com/gh/dcycle/drupal_inquicker) | <https://github.com/dcycle/drupal_inquicker> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-pa11y.svg?style=svg)](https://circleci.com/gh/dcycle/docker-pa11y) | <https://github.com/dcycle/docker-pa11y> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-browsertesting/tree/master.svg?style=svg)](https://circleci.com/gh/dcycle/docker-browsertesting/tree/master) | <https://github.com/dcycle/docker-browsertesting> |
 | [![CircleCI](https://circleci.com/gh/dcycle/closest_zip_code.svg?style=svg)](https://circleci.com/gh/dcycle/closest_zip_code) | <https://github.com/dcycle/closest_zip_code> |
