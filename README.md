@@ -11,6 +11,11 @@ Steward Acquia environments
 | stewardd8         | Steward Multisite  |
 | stewardcommunity  | stewardcommunity   |
 
+Docker images
+| Name       | Github    | Badge               | Rebuild job | Docker hub |
+|------------|-----------|---------------------|-------------|------------|
+| clone-site | Invoice   | [![CircleCI](https://circleci.com/gh/dcycle/docker-httrack.svg?style=svg)](https://circleci.com/gh/dcycle/docker-httrack) | | |
+
 Steward Projects
 
 | Name | Status     | GitHub   | Host          | Cron |
