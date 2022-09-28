@@ -14,7 +14,7 @@ Steward Acquia environments
 Docker images
 | Name       | Github    | Badge               | Rebuild job | Docker hub |
 |------------|-----------|---------------------|-------------|------------|
-| clone-site | <https://github.com/dcycle/docker-clone-site>   | <a href="https://dl.circleci.com/status-badge/redirect/gh/dcycle/docker-clone-site/tree/master"><img src="https://dl.circleci.com/status-badge/img/gh/dcycle/docker-clone-site/tree/master.svg?style=svg"></a> | | |
+| clone-site | <https://github.com/dcycle/docker-clone-site>   | <a href="https://dl.circleci.com/status-badge/redirect/gh/dcycle/docker-clone-site/tree/master"><img src="https://dl.circleci.com/status-badge/img/gh/dcycle/docker-clone-site/tree/master.svg?style=svg"></a> | [Jenkins](https://ci.dcycle.com/job/docker-clone-site/) | [Docker hub](http://hub.docker.com/r/dcycle/clone-site) |
 
 Steward Projects
 
