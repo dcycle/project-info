@@ -12,9 +12,10 @@ Steward Acquia environments
 | stewardcommunity  | stewardcommunity   |
 
 Docker images
-| Name       | Github    | Badge               | Rebuild job | Docker hub |
-|------------|-----------|---------------------|-------------|------------|
-| clone-site | <https://github.com/dcycle/docker-clone-site>   | <a href="https://dl.circleci.com/status-badge/redirect/gh/dcycle/docker-clone-site/tree/master"><img src="https://dl.circleci.com/status-badge/img/gh/dcycle/docker-clone-site/tree/master.svg?style=svg"></a> | [Jenkins](https://ci.dcycle.com/job/docker-clone-site/) | [Docker hub](http://hub.docker.com/r/dcycle/clone-site) |
+| Name       | Github    | Badge               | Rebuild job | Docker hub | Weekly |
+|------------|-----------|---------------------|-------------|------------|-|
+| clone-site | <https://github.com/dcycle/docker-clone-site>   | <a href="https://dl.circleci.com/status-badge/redirect/gh/dcycle/docker-clone-site/tree/master"><img src="https://dl.circleci.com/status-badge/img/gh/dcycle/docker-clone-site/tree/master.svg?style=svg"></a> | [Jenkins](https://ci.dcycle.com/job/docker-clone-site/) | [Docker hub](http://hub.docker.com/r/dcycle/clone-site) | [CI triggers](https://app.circleci.com/settings/project/github/dcycle/docker-clone-site/triggers?return-to=https%3A%2F%2Fapp.circleci.com%2Fpipelines%2Fgithub%2Fdcycle%2Fdocker-clone-site&success=true) |
+| drupal | <https://github.com/dcycle/docker-drupal> | [![CircleCI](https://circleci.com/gh/dcycle/docker-drupal.svg?style=svg)](https://circleci.com/gh/dcycle/docker-drupal) | [Jenkins](https://ci.dcycle.com/job/docker-drupal/) | [Docker hub](https://hub.docker.com/r/dcycle/drupal) | [CI triggers](https://app.circleci.com/settings/project/github/dcycle/docker-drupal/triggers?return-to=https%3A%2F%2Fapp.circleci.com%2Fpipelines%2Fgithub%2Fdcycle%2Fdocker-drupal&success=true) | 
 
 Steward Projects
 
