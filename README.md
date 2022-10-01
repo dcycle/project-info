@@ -41,7 +41,13 @@ Websites
 |------------|----------------------------------------------------|-------------|------------------------------|--------|--------|
 | StaticAuth | <https://github.com/alberto56/staticauth> | D.O. albert | <https://www.staticauth.com> | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/alberto56/staticauth/tree/master.svg?style=svg&circle-token=bb632df7af30e5eaec5ae9c0109c64e833dae6b2)](https://dl.circleci.com/status-badge/redirect/gh/alberto56/staticauth/tree/master) | [CI triggers](https://app.circleci.com/settings/project/github/alberto56/staticauth/triggers?return-to=https%3A%2F%2Fapp.circleci.com%2Fpipelines%2Fgithub%2Falberto56%2Fstaticauth&success=true) |
 
-Projects
+Project
+
+| Badge | Github | Weekly |
+|-|-|-|
+| [![CircleCI](https://circleci.com/gh/dcycle/starterkit-drupalsite/tree/master.svg?style=svg)](https://circleci.com/gh/dcycle/starterkit-drupalsite/tree/master) | <https://github.com/dcycle/starterkit-drupalsite> | [CI triggers](https://app.circleci.com/settings/project/github/dcycle/starterkit-drupalsite/triggers?return-to=https%3A%2F%2Fapp.circleci.com%2Fpipelines%2Fgithub%2Fdcycle%2Fstarterkit-drupalsite&success=true) |
+
+Projects (legacy)
 
 | Status       | Project | Stage | Prod | Server | 
 |------------|---------|--|--|--|
@@ -52,8 +58,6 @@ Projects
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-html-validate.svg?style=svg)](https://circleci.com/gh/dcycle/docker-html-validate) | <http://github.com/dcycle/docker-html-validate> | | | |
 | [![CircleCI](https://circleci.com/gh/dcycle/watchdog_watchdog.svg?style=svg)](https://circleci.com/gh/dcycle/watchdog_watchdog) | <http://github.com/dcycle/watchdog_watchdog> | | | |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-broken-link-checker/tree/master.svg?style=svg)](https://circleci.com/gh/dcycle/docker-broken-link-checker/tree/master) | <https://ci.dcycle.com/job/docker-broken-link-checker/> |
-| [![CircleCI](https://circleci.com/gh/dcycle/starterkit-drupalsite/tree/9.svg?style=svg)](https://circleci.com/gh/dcycle/starterkit-drupalsite/tree/9) | <https://github.com/dcycle/starterkit-drupalsite> (d9, default branch) |
-| [![CircleCI](https://circleci.com/gh/dcycle/starterkit-drupalsite/tree/master.svg?style=svg)](https://circleci.com/gh/dcycle/starterkit-drupalsite/tree/master) | <https://github.com/dcycle/starterkit-drupalsite> (d8, master branch) |
 | [![CircleCI](https://circleci.com/gh/dcycle/drupal_yext.svg?style=svg)](https://circleci.com/gh/dcycle/drupal_yext) | <https://github.com/dcycle/drupal_yext> |
 | [![CircleCI](https://circleci.com/gh/dcycle/starterkit-php.svg?style=svg)](https://circleci.com/gh/dcycle/starterkit-php) | <https://github.com/dcycle/starterkit-php> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-ledger.svg?style=svg)](https://circleci.com/gh/dcycle/docker-ledger) | <https://github.com/dcycle/docker-ledger> |
