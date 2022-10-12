@@ -34,6 +34,7 @@ Drupal Modules
 | webhook_receiver | [![CircleCI](https://circleci.com/gh/dcycle/webhook_receiver/tree/1.x.svg?style=svg)](https://circleci.com/gh/dcycle/webhook_receiver/tree/1.x) | [GitHub](https://github.com/dcycle/webhook_receiver) | [Drupal](http://drupal.org/project/webhook_receiver) | [CI triggers](https://app.circleci.com/settings/project/github/dcycle/webhook_receiver/triggers) | 10 |
 | eventbrite_one_way_sync | [![CircleCI](https://circleci.com/gh/dcycle/eventbrite_one_way_sync/tree/1.x.svg?style=svg)](https://circleci.com/gh/dcycle/eventbrite_one_way_sync/tree/1.x) | [GitHub](https://github.com/dcycle/eventbrite_one_way_sync) | [Drupal](http://drupal.org/project/eventbrite_one_way_sync) | [CI triggers](https://app.circleci.com/settings/project/github/dcycle/eventbrite_one_way_sync/triggers) | 10 |
 | entity_inherit | [![CircleCI](https://circleci.com/gh/dcycle/entity_inherit/tree/4.x.svg?style=svg)](https://circleci.com/gh/dcycle/entity_inherit/tree/4.x) | [GitHub](https://github.com/dcycle/entity_inherit) | [Drupal](http://drupal.org/project/entity_inherit) | [CI triggers](https://app.circleci.com/settings/project/github/dcycle/entity_inherit/triggers) | 10 |
+| expose_status | [![CircleCI](https://circleci.com/gh/dcycle/expose_status/tree/4.x.svg?style=svg)](https://circleci.com/gh/dcycle/expose_status/tree/4.x) | [GitHub](https://github.com/dcycle/expose_status) | [Drupal](http://drupal.org/project/expose_status) | [CI triggers](https://app.circleci.com/settings/project/github/dcycle/expose_status/triggers) | 10 |
 
 
 Websites
