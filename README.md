@@ -51,7 +51,7 @@ Websites
 | Name       | Code                                               | Provider    | prod                         | status | weekly | broken |
 |------------|----------------------------------------------------|-------------|------------------------------|--------|--------|--------|
 | StaticAuth | <https://github.com/alberto56/staticauth> | D.O. albert | <https://www.staticauth.com> | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/alberto56/staticauth/tree/master.svg?style=svg&circle-token=bb632df7af30e5eaec5ae9c0109c64e833dae6b2)](https://dl.circleci.com/status-badge/redirect/gh/alberto56/staticauth/tree/master) | [CI triggers](https://app.circleci.com/settings/project/github/alberto56/staticauth/triggers?return-to=https%3A%2F%2Fapp.circleci.com%2Fpipelines%2Fgithub%2Falberto56%2Fstaticauth&success=true) | n/a |
-| Terre des jeunes | <http://github.com/tdjeunes/website> | GH pages | <https://www.terredesjeunes.org> | n/a | n/a | [Sheets](https://docs.google.com/spreadsheets/d/1BkZyx4dyXsLVmCE6gvdc4XxGzIcDJ5GYBxn8DqtKSSQ/edit#gid=326144669) |
+| Terre des jeunes | <http://github.com/tdjeunes/website> | GH pages | <https://www.terredesjeunes.org> | n/a | n/a | [694](https://docs.google.com/spreadsheets/d/1BkZyx4dyXsLVmCE6gvdc4XxGzIcDJ5GYBxn8DqtKSSQ/edit#gid=326144669) |
 
 Project
 
