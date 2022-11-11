@@ -28,8 +28,8 @@ Steward Projects
 | Feed | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/steward-feed/tree/master.svg?style=svg&circle-token=9dd3dadda5059dae644be76f4e8df157c295aef3)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/steward-feed/tree/master) | [GitHub](https://github.com/hatch130/steward-feed) |  |  |
 | ER wait | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/steward-erwait/tree/master.svg?style=svg&circle-token=7f86189e2c0830314672bf1a4bf0b42c6d8952c5)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/steward-erwait/tree/master) | [GitHub](http://github.com/hatch130/steward-erwait) |  |  |
 | ID | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/steward-id/tree/master.svg?style=svg&circle-token=c138267b1488ae1b76295ecb9010733bee5c9b25)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/steward-id/tree/master) | [GitHub](https://github.com/hatch130/steward-id) |  |  |
-| Hospitals | [![CircleCI](https://circleci.com/gh/hatch130/steward-drupal8.svg?style=svg&circle-token=e63edd5ab2b62b3dedaef98dc145717de6e0adad)](https://circleci.com/gh/hatch130/steward-drupal8) | [[GitHub](https://github.com/hatch130/steward-id)](https://github.com/hatch130/steward-drupal8) | Acquia stewardhub |  |
-| Hub | [![CircleCI](https://circleci.com/gh/hatch130/steward-drupal8.svg?style=svg&circle-token=e63edd5ab2b62b3dedaef98dc145717de6e0adad)](https://circleci.com/gh/hatch130/steward-drupal8) | [[GitHub](https://github.com/hatch130/steward-id)](https://github.com/hatch130/steward-drupal8) | Acquia stewardhospitals |  |
+| Hospitals | [![CircleCI](https://circleci.com/gh/hatch130/steward-drupal8.svg?style=svg&circle-token=e63edd5ab2b62b3dedaef98dc145717de6e0adad)](https://circleci.com/gh/hatch130/steward-drupal8) | [GitHub](https://github.com/hatch130/steward-drupal8) | Acquia stewardhub |  |
+| Hub | [![CircleCI](https://circleci.com/gh/hatch130/steward-drupal8.svg?style=svg&circle-token=e63edd5ab2b62b3dedaef98dc145717de6e0adad)](https://circleci.com/gh/hatch130/steward-drupal8) | [GitHub](https://github.com/hatch130/steward-drupal8) | Acquia stewardhospitals |  |
 
 Steward sites
 
