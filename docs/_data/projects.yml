@@ -1,0 +1,236 @@
+items:
+  - repos:
+    - repo: dcycle/cert-expiry-monitor
+      provider: github
+  - repos:
+    - repo: dcycle/closest_zip_code
+      provider: github
+  - repos:
+    - repo: dcycle/communauto
+      provider: github
+  - repos:
+    - repo: dcycle/consolidator
+      provider: github
+  - repos:
+    - repo: dcycle/consolidator_workplace
+      provider: github
+  - repos:
+    - repo: dcycle/convert_media_tags_to_markup
+      provider: github
+  - repos:
+    - repo: dcycle/d6_to_d8_migration_example
+      provider: github
+  - repos:
+    - repo: dcycle/dcbase
+      provider: github
+  - repos:
+    - repo: dcycle/dcycle-accounting
+      provider: github
+  - repos:
+    - repo: dcycle/dcycle-kube-helper
+      provider: github
+  - repos:
+    - repo: dcycle/dcycle-method
+      provider: github
+  - repos:
+    - repo: dcycle/dcycle-metrics-engine
+      provider: github
+  - repos:
+    - repo: dcycle/dcycle-website
+      provider: github
+  - repos:
+    - repo: dcycle/dcycleacquia
+      provider: github
+  - repos:
+    - repo: dcycle/dcyclejenkins
+      provider: github
+  - repos:
+    - repo: dcycle/dcycleu
+      provider: github
+  - repos:
+    - repo: dcycle/dcycle_billing
+      provider: github
+  - repos:
+    - repo: dcycle/docker-ava
+      provider: github
+  - repos:
+    - repo: dcycle/docker-broken-link-checker
+      provider: github
+    ci:
+      - template: circleci
+      - image: //ci.dcycle.com/job/docker-broken-link-checker/badge/icon
+        link: https://ci.dcycle.com/job/docker-broken-link-checker
+  - repos:
+    - repo: dcycle/docker-browsertesting
+      provider: github
+  - repos:
+    - repo: dcycle/docker-compresspdf
+      provider: github
+  - repos:
+    - repo: dcycle/docker-css-lint
+      provider: github
+  - repos:
+    - repo: dcycle/docker-digitalocean-php
+      provider: github
+  - repos:
+    - repo: dcycle/docker-doctl
+      provider: github
+  - repos:
+    - repo: dcycle/docker-drupal
+      provider: github
+  - repos:
+    - repo: dcycle/docker-drupal-check
+      provider: github
+  - repos:
+    - repo: dcycle/docker-drupal-reproduce-modulelist
+      provider: github
+  - repos:
+    - repo: dcycle/docker-geoipupdate
+      provider: github
+  - repos:
+    - repo: dcycle/docker-jenkins-cli
+      provider: github
+  - repos:
+    - repo: dcycle/docker-jenkins-helm
+      provider: github
+  - repos:
+    - repo: dcycle/docker-js-lint
+      provider: github
+  - repos:
+    - repo: dcycle/docker-json-lint
+      provider: github
+  - repos:
+    - repo: dcycle/docker-ledger
+      provider: github
+  - repos:
+    - repo: dcycle/docker-markdown-lint
+      provider: github
+  - repos:
+    - repo: dcycle/docker-md2html
+      provider: github
+  - repos:
+    - repo: dcycle/docker-pa11y
+      provider: github
+  - repos:
+    - repo: dcycle/docker-php-code-quality
+      provider: github
+  - repos:
+    - repo: dcycle/docker-php-lint
+      provider: github
+  - repos:
+    - repo: dcycle/docker-phpstan-drupal
+      provider: github
+  - repos:
+    - repo: dcycle/docker-phpunit
+      provider: github
+  - repos:
+    - repo: dcycle/docker-python-lint
+      provider: github
+  - repos:
+    - repo: dcycle/docker-sass-lint
+      provider: github
+  - repos:
+    - repo: dcycle/docker-shell-lint
+      provider: github
+  - repos:
+    - repo: dcycle/docker-terminus
+      provider: github
+  - repos:
+    - repo: dcycle/docker-yaml-lint
+      provider: github
+  - repos:
+    - repo: dcycle/done
+      provider: github
+  - repos:
+    - repo: dcycle/drupal-purge-demo
+      provider: github
+  - repos:
+    - repo: dcycle/drupal-tester
+      provider: github
+  - repos:
+    - repo: dcycle/drupal8_core_dev_helper
+      provider: github
+  - repos:
+    - repo: dcycle/drupal_dcycle
+      provider: github
+  - repos:
+    - repo: dcycle/drupal_inquicker
+      provider: github
+  - repos:
+    - repo: dcycle/drupal_yext
+      provider: github
+  - repos:
+    - repo: dcycle/expose_status
+      provider: github
+  - repos:
+    - repo: dcycle/github-pages-netlifycms-playground
+      provider: github
+  - repos:
+    - repo: dcycle/helm-encrypt-helper
+      provider: github
+  - repos:
+    - repo: dcycle/jekyll-tutorial
+      provider: github
+  - repos:
+    - repo: dcycle/legacy_code_example
+      provider: github
+  - repos:
+    - repo: dcycle/lets-lint
+      provider: github
+  - repos:
+    - repo: dcycle/linkchecker
+      provider: github
+  - repos:
+    - repo: dcycle/locald6
+      provider: github
+  - repos:
+    - repo: dcycle/netlify-cms-github-oauth-provider
+      provider: github
+  - repos:
+    - repo: dcycle/nodejs_example
+      provider: github
+  - repos:
+    - repo: dcycle/project-info
+      provider: github
+  - repos:
+    - repo: dcycle/realistic_dummy_content
+      provider: github
+  - repos:
+    - repo: dcycle/redash-rest-shoehorn
+      provider: github
+  - repos:
+    - repo: dcycle/sandbox-geolocation
+      provider: github
+  - repos:
+    - repo: dcycle/scrapers-ca
+      provider: github
+  - repos:
+    - repo: dcycle/starterkit-drupal8site
+      provider: github
+  - repos:
+    - repo: dcycle/starterkit-php
+      provider: github
+  - repos:
+    - repo: dcycle/starterkit-wordpress
+      provider: github
+  - repos:
+    - repo: dcycle/tdj-data
+      provider: github
+  - repos:
+    - repo: dcycle/tdj-frontend
+      provider: github
+  - repos:
+    - repo: dcycle/tdj-legacy
+      provider: github
+  - repos:
+    - repo: dcycle/unit-test-tutorial
+      provider: github
+  - repos:
+    - repo: dcycle/webform_d7_to_d8
+      provider: github
+  - repos:
+    - repo: dcycle/webform_submission_change_history
+      provider: github
+  - repos:
+    - repo: dcycle/word_monitor
+      provider: github

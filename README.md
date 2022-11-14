@@ -50,6 +50,11 @@ Dcycle Continuous integration badges
 | n/a | <https://github.com/dcycle/docker-shell-lint> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-json-lint.svg?style=svg)](https://circleci.com/gh/dcycle/docker-json-lint) | <https://github.com/dcycle/docker-json-lint> |
 
+The indicator lights
+-----
+
+https://commons.wikimedia.org/wiki/File:SIMPLE_CONTROL_WITH_INDICATOR_LIGHTS.jpg
+
 The favicon
 -----
 

@@ -4,4 +4,4 @@
 #
 set -e
 
-docker run --rm --link aphcq:site dcycle/broken-link-checker:2 http://site
+docker run --rm --link projectinfo:site dcycle/broken-link-checker:2 http://site
