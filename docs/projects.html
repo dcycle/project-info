@@ -1,0 +1,15 @@
+---
+title: Dcycle Public Projects
+layout: basic
+---
+<h2>Drupal Modules</h2>
+{% for module in site.categories.jekyll_drupalmodules %}
+<div class="dcycle-drupal-module">
+  <h3 class="dcycle-drupal-module-title">{{ module.title }}</h3>
+  <p>Status badge: {{ module.badge | markdownify }}</p>
+  <p><a href="{{ module.github }}" target="_blank">{{ module.title }} on GitHub</a></p>
+  <p><a href="{{ module.drupal }}" target="_blank">{{ module.title }} on Drupal</a></p>
+  <p><a href="{{ module.weekly }}" target="_blank">{{ module.title }} weekly rebuild</a></p>
+  <p>Supported Drupal version: {{ module.drupal_version }}</p>
+</div>
+{% endfor %}
