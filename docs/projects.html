@@ -3,13 +3,43 @@ title: Dcycle Public Projects
 layout: basic
 ---
 <h2>Drupal Modules</h2>
-{% for module in site.categories.jekyll_drupalmodules %}
-<div class="dcycle-drupal-module">
-  <h3 class="dcycle-drupal-module-title">{{ module.title }}</h3>
-  <p>Status badge: {{ module.badge | markdownify }}</p>
-  <p><a href="{{ module.github }}" target="_blank">{{ module.title }} on GitHub</a></p>
-  <p><a href="{{ module.drupal }}" target="_blank">{{ module.title }} on Drupal</a></p>
-  <p><a href="{{ module.weekly }}" target="_blank">{{ module.title }} weekly rebuild</a></p>
-  <p>Supported Drupal version: {{ module.drupal_version }}</p>
-</div>
-{% endfor %}
+<table class="table">
+  <tr>
+    <th>Status</th>
+    <th>Name</th>
+    <th>GitHub</th>
+    <th>Drupal</th>
+    <th>Rebuild</th>
+    <th>Drupal version</th>
+  </tr>
+  {% for module in site.categories.jekyll_drupalmodules %}
+  <tr>
+    <td>{{ module.badge | markdownify }}</td>
+    <td>{{ module.title }}</td>
+    <td><a href="{{ module.github }}" target="_blank">GitHub</a></td>
+    <td><a href="{{ module.drupal }}" target="_blank">Drupal</a></td>
+    <td><a href="{{ module.weekly }}" target="_blank">{{ module.title }} weekly rebuild</a></td>
+    <td>{{ module.drupal_version }}</td>
+  </tr>
+  {% endfor %}
+</table>
+
+<h2>Docker images</h2>
+<table class="table">
+  <tr>
+    <th>Status</th>
+    <th>Name</th>
+    <th>GitHub</th>
+    <th>Docker Hub</th>
+    <th>Weekly rebuild</th>
+  </tr>
+  {% for module in site.categories.jekyll_dockerimages %}
+  <tr>
+    <td>{{ module.badge | markdownify }}</td>
+    <td>{{ module.title }}</td>
+    <td><a href="{{ module.github }}" target="_blank">GitHub</a></td>
+    <td><a href="{{ module.docker }}" target="_blank">Docker</a></td>
+    <td>{{ module.weekly }}</td>
+  </tr>
+  {% endfor %}
+</table>
