@@ -32,6 +32,17 @@ Steward Projects
 | Hub | [![CircleCI](https://circleci.com/gh/hatch130/steward-drupal8.svg?style=svg&circle-token=e63edd5ab2b62b3dedaef98dc145717de6e0adad)](https://circleci.com/gh/hatch130/steward-drupal8) | [GitHub](https://github.com/hatch130/steward-drupal8) | Acquia stewardhospitals |  |
 | Cohesion | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/steward-cohesion/tree/master.svg?style=svg&circle-token=90f2d82f665bcec33db2e43bc790ba1f8c39bc57)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/steward-cohesion/tree/master) | [GitHub](https://github.com/hatch130/steward-cohesion) | Acquia stewardphysicians | [S](https://cloud.acquia.com/a/environments/23611-ba634f7b-d063-4a51-9e11-33ae6a4ec143/cron) [P](https://cloud.acquia.com/a/environments/23610-ba634f7b-d063-4a51-9e11-33ae6a4ec143/cron) | [S](http://stewardphysiciansstg.prod.acquia-sites.com) [P](https://www.mystewardhealthcare.com) |
 
+Production droplets
+
+| Client | IP | Droplet name | Droplet account |
+|-|-|-|-|
+| Ahora (Hatch) | 104.236.106.112 | ahoraproduction | Hatch |  
+
+GH pages sites
+
+| Client | URL | GH | Status | Badge |
+| Ahora (Hatch) | <https://www.ahoramoney.org> | <http://github.com/hatch130/ahora-frontend> | No maintenance | [![CircleCI](https://circleci.com/gh/hatch130/ahora-frontend/tree/master.svg?style=svg&circle-token=691b3d22542e912af3b09a661b3f002027789d0a)](https://circleci.com/gh/hatch130/ahora-frontend/tree/master) |
+
 Steward sites
 
 | Project    | Usage | Monitor            |
