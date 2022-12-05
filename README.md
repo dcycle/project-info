@@ -35,12 +35,13 @@ Steward Projects
 Production droplets
 
 | Client | IP | Droplet name | Droplet account |
-|--|--|--|--|
+|--------|----|--------------|-----------------|
 | Ahora (Hatch) | 104.236.106.112 | ahoraproduction | Hatch |  
 
 GH pages sites
 
 | Client | URL | GH | Status | Badge |
+|--------|-----|----|--------|-------|
 | Ahora (Hatch) | <https://www.ahoramoney.org> | <http://github.com/hatch130/ahora-frontend> | No maintenance | [![CircleCI](https://circleci.com/gh/hatch130/ahora-frontend/tree/master.svg?style=svg&circle-token=691b3d22542e912af3b09a661b3f002027789d0a)](https://circleci.com/gh/hatch130/ahora-frontend/tree/master) |
 
 Steward sites
@@ -58,7 +59,6 @@ Drupal Modules
 | entity_inherit | [![CircleCI](https://circleci.com/gh/dcycle/entity_inherit/tree/4.x.svg?style=svg)](https://circleci.com/gh/dcycle/entity_inherit/tree/4.x) | [GitHub](https://github.com/dcycle/entity_inherit) | [Drupal](http://drupal.org/project/entity_inherit) | [CI triggers](https://app.circleci.com/settings/project/github/dcycle/entity_inherit/triggers) | 10 |
 | expose_status | [![CircleCI](https://circleci.com/gh/dcycle/expose_status/tree/4.x.svg?style=svg)](https://circleci.com/gh/dcycle/expose_status/tree/4.x) | [GitHub](https://github.com/dcycle/expose_status) | [Drupal](http://drupal.org/project/expose_status) | [CI triggers](https://app.circleci.com/settings/project/github/dcycle/expose_status/triggers) | 10 |
 
-
 Websites
 
 | Name       | Code                                               | Provider    | prod                         | status | weekly | broken |
@@ -70,7 +70,7 @@ Websites
 Project
 
 | Badge | Github | Weekly |
-|-|-|-|
+|-------|--------|--------|
 | [![CircleCI](https://circleci.com/gh/dcycle/starterkit-drupalsite/tree/master.svg?style=svg)](https://circleci.com/gh/dcycle/starterkit-drupalsite/tree/master) | <https://github.com/dcycle/starterkit-drupalsite> | [CI triggers](https://app.circleci.com/settings/project/github/dcycle/starterkit-drupalsite/triggers?return-to=https%3A%2F%2Fapp.circleci.com%2Fpipelines%2Fgithub%2Fdcycle%2Fstarterkit-drupalsite&success=true) |
 
 Projects (legacy)
