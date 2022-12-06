@@ -40,9 +40,11 @@ Production droplets
 
 GH pages sites
 
-| Client | URL | GH | Status | Badge |
-|--------|-----|----|--------|-------|
+| Client | URL | GH | Status | Badge | Weekly |
+|--------|-----|----|--------|-------|--------|
 | Ahora (Hatch) | <https://www.ahoramoney.org> | <http://github.com/hatch130/ahora-frontend> | No maintenance | [![CircleCI](https://circleci.com/gh/hatch130/ahora-frontend/tree/master.svg?style=svg&circle-token=691b3d22542e912af3b09a661b3f002027789d0a)](https://circleci.com/gh/hatch130/ahora-frontend/tree/master) |
+| Bioénergie Haïti | <https://www.bioenergiehaiti.org> | https://github.com/alberto56/beh-site | active | [![CircleCI](https://circleci.com/gh/alberto56/beh-site/tree/master.svg?style=svg&circle-token=4b52c6e32eab20a95d6d6e5cb39d099761abd3fd)](https://circleci.com/gh/alberto56/beh-site/tree/master) | [CI trigger](https://app.circleci.com/settings/project/github/alberto56/beh-site/triggers?return-to=https%3A%2F%2Fapp.circleci.com%2Fpipelines%2Fgithub%2Falberto56%2Fbeh-site&success=true) |
+| Bioénergie Togo | <https://www.bioenergietogo.org> | <https://github.com/alberto56/bioenergie-togo> | active | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/alberto56/bioenergie-togo/tree/master.svg?style=svg&circle-token=f3ff2227dacb67ba038d18a16f62d829fb2c4488)](https://dl.circleci.com/status-badge/redirect/gh/alberto56/bioenergie-togo/tree/master) | [CI Trigger](https://app.circleci.com/settings/project/github/alberto56/bioenergie-togo/triggers?return-to=https%3A%2F%2Fapp.circleci.com%2Fpipelines%2Fgithub%2Falberto56%2Fbioenergie-togo&success=true) |
 
 Steward sites
 
