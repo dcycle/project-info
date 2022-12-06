@@ -43,3 +43,24 @@ layout: basic
   </tr>
   {% endfor %}
 </table>
+
+<h2>GitHub Pages Sites</h2>
+<table class="table">
+  <tr>
+    <th>Status</th>
+    <th>Name</th>
+    <th>GitHub</th>
+    <th>URL</th>
+    <th>Weekly rebuild</th>
+  </tr>
+  {% for site in site.categories.jekyll_ghpagessites %}
+  <tr>
+    <td>{{ site.badge | markdownify }}</td>
+    <td>{{ site.title }}</td>
+    <td><a href="{{ site.github }}" target="_blank">GitHub</a></td>
+    <td><a href="{{ site.url }}" target="_blank">{{ site.url }}</a></td>
+    <td><a href="{{ site.weekly }}" target="_blank">{{ site.weekly }}</a></td>
+  </tr>
+  {% endfor %}
+</table>
+
