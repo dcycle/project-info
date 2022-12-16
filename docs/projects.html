@@ -82,3 +82,27 @@ layout: basic
   {% endfor %}
 </table>
 
+<h2>Running sites</h2>
+<table class="table">
+  <tr>
+    <th>Status</th>
+    <th>Name</th>
+    <th>GitHub</th>
+    <th>Weekly rebuild</th>
+    <th>URLs</th>
+  </tr>
+  {% for site in site.categories.jekyll_running %}
+  <tr>
+    <td>{{ site.badge | markdownify }}</td>
+    <td>{{ site.title }}</td>
+    <td><a href="{{ site.github }}" target="_blank">GitHub</a></td>
+    <td><a href="{{ site.weekly }}" target="_blank">Weekly</a></td>
+    <td><ul>
+      {% for url in site.sites %}
+      <li><a href="{{ url }}" target="_blank">{{ url }}</a></li>
+      {% endfor %}
+    </ul></td>
+  </tr>
+  {% endfor %}
+</table>
+
