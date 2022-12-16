@@ -40,6 +40,7 @@ Production droplets
 | Client | IP | Droplet name | Droplet account |
 |--------|----|--------------|-----------------|
 | Ahora (Hatch) | 104.236.106.112 | ahoraproduction | Hatch |  
+| Le Hub Wiki |  |  | LeHub |  
 
 GH pages sites
 
