@@ -52,6 +52,7 @@ layout: basic
     <th>GitHub</th>
     <th>URL</th>
     <th>Weekly rebuild</th>
+    <th>Broken</th>
   </tr>
   {% for site in site.categories.jekyll_ghpagessites %}
   <tr>
@@ -60,6 +61,25 @@ layout: basic
     <td><a href="{{ site.github }}" target="_blank">GitHub</a></td>
     <td><a href="{{ site.siteurl }}" target="_blank">{{ site.siteurl }}</a></td>
     <td><a href="{{ site.weekly }}" target="_blank">Weekly</a></td>
+    <td>{{ site.broken | markdownify }}</td>
+  </tr>
+  {% endfor %}
+</table>
+
+<h2>Shell projects</h2>
+<table class="table">
+  <tr>
+    <th>Status</th>
+    <th>Name</th>
+    <th>GitHub</th>
+    <th>Weekly rebuild</th>
+  </tr>
+  {% for project in site.categories.jekyll_projects %}
+  <tr>
+    <td>{{ project.badge | markdownify }}</td>
+    <td>{{ project.title }}</td>
+    <td><a href="{{ project.github }}" target="_blank">GitHub</a></td>
+    <td><a href="{{ project.weekly }}" target="_blank">Weekly</a></td>
   </tr>
   {% endfor %}
 </table>
