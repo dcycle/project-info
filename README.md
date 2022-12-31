@@ -14,8 +14,6 @@ Steward Acquia environments
 Docker images
 | Name       | Github    | Badge               | Rebuild job | Docker hub | Weekly |
 |------------|-----------|---------------------|-------------|------------|-|
-| drupal | <https://github.com/dcycle/docker-drupal> | [![CircleCI](https://circleci.com/gh/dcycle/docker-drupal.svg?style=svg)](https://circleci.com/gh/dcycle/docker-drupal) | [Jenkins](https://ci.dcycle.com/job/docker-drupal/) | [Docker hub](https://hub.docker.com/r/dcycle/drupal) | [CI triggers](https://app.circleci.com/settings/project/github/dcycle/docker-drupal/triggers?return-to=https%3A%2F%2Fapp.circleci.com%2Fpipelines%2Fgithub%2Fdcycle%2Fdocker-drupal&success=true) |
-| broken-link-checker | <https://github.com/dcycle/docker-broken-link-checker> | [![CircleCI](https://circleci.com/gh/dcycle/docker-broken-link-checker/tree/master.svg?style=svg)](https://circleci.com/gh/dcycle/docker-broken-link-checker/tree/master) | [Jenkins](https://ci.dcycle.com/job/docker-broken-link-checker/) | [Docker hub](https://hub.docker.com/r/dcycle/broken-link-checker) | (upon rebuild) |
 | steward-drupal | <http://github.com/hatch130/steward-docker-drupal> | [![CircleCI](https://circleci.com/gh/hatch130/steward-docker-drupal.svg?style=svg&circle-token=d1a1f153aac0dfcf3fc67c8df8c439450803a11d)](https://circleci.com/gh/hatch130/steward-docker-drupal) | [Jenkins](https://ci.dcycle.com/job/docker-steward-drupal/) | [Docker hub](http://hub.docker.com/r/dcycle/steward-drupal) | (upon rebuild) |
 
 Steward Projects
@@ -117,13 +115,3 @@ Projects (legacy)
 | [![CircleCI](https://circleci.com/gh/hatch130/stewardhealthchoice.svg?style=svg&circle-token=d93fb95779f7b2b03df0affc6bb37414a4c16b49)](https://circleci.com/gh/hatch130/stewardhealthchoice) | [Health Choice](https://github.com/hatch130/stewardhealthchoice) ([see section "multisite"](https://github.com/hatch130/steward-drupal8#multisite)) | [stage](https://www.test.shc.steward.hatch.toptal.dcycle.com) | [prod](https://www.stewardhealthchoice.org) | [Multisite on Acquia](https://cloud.acquia.com/app/develop/applications/03848274-f445-4327-b058-a189e66cb9a8) |
 | [![CircleCI](https://circleci.com/gh/hatch130/steward-docker-drupal.svg?style=svg&circle-token=d1a1f153aac0dfcf3fc67c8df8c439450803a11d)](https://circleci.com/gh/hatch130/steward-docker-drupal) [Dcycle Jenkins CI](https://ci.dcycle.com/job/docker-steward-drupal/) | [Steward base Docker image](https://github.com/hatch130/steward-docker-drupal) | ([see section "base images"](https://github.com/hatch130/steward-drupal8#base-images)) | ([see section "base images"](https://github.com/hatch130/steward-drupal8#base-images)) | [Docker Hub](https://hub.docker.com/r/dcycle/steward-drupal) ([see section "base images"](https://github.com/hatch130/steward-drupal8#base-images)) |
 | [![CircleCI](https://circleci.com/gh/hatch130/steward-cohesion.svg?style=svg&circle-token=0a1a962bd91b85289b772869300433b69dd178f3)](https://circleci.com/gh/hatch130/steward-cohesion) | [Steward Cohesion](https://github.com/hatch130/steward-cohesion) | [stage](http://stewardphysiciansstg.prod.acquia-sites.com) | [prod](http://stewardphysicians.prod.acquia-sites.com) | [Steward Cohesion on Acquia](https://cloud.acquia.com/app/develop/applications/ba634f7b-d063-4a51-9e11-33ae6a4ec143) |
-
-The indicator lights
------
-
-https://commons.wikimedia.org/wiki/File:SIMPLE_CONTROL_WITH_INDICATOR_LIGHTS.jpg
-
-The favicon
------
-
-Generated using [Favicon Generator](https://favicon.io/favicon-generator/) with "D", font "Allerta", color "#00F"
