@@ -38,8 +38,8 @@ Production droplets
 
 | Client | IP | Droplet name | Droplet account |
 |--------|----|--------------|-----------------|
-| Ahora (Hatch) | 104.236.106.112 | ahoraproduction | Hatch |  
-| Le Hub Wiki |  | docker-ubuntu-s-1vcpu-2gb-nyc1-01 | LeHub |  
+| Ahora (Hatch) | 104.236.106.112 | ahoraproduction | Hatch |
+| Le Hub Wiki |  | docker-ubuntu-s-1vcpu-2gb-nyc1-01 | LeHub |
 
 GH pages sites
 
@@ -90,7 +90,6 @@ Projects (legacy)
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-ava.svg?style=svg)](https://circleci.com/gh/dcycle/docker-ava) | <https://github.com/dcycle/docker-ava> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-yaml-lint.svg?style=svg)](https://circleci.com/gh/dcycle/docker-yaml-lint) | <https://github.com/dcycle/docker-yaml-lint> |
 | [![CircleCI](https://circleci.com/gh/dcycle/word_monitor.svg?style=svg)](https://circleci.com/gh/dcycle/word_monitor) | <https://github.com/dcycle/word_monitor> |
-| [![CircleCI](https://circleci.com/gh/dcycle/starterkit-wordpress.svg?style=svg)](https://circleci.com/gh/dcycle/starterkit-wordpress) | <https://github.com/dcycle/starterkit-wordpress> |
 | [![CircleCI](https://circleci.com/gh/dcycle/cert-expiry-monitor.svg?style=svg)](https://circleci.com/gh/dcycle/cert-expiry-monitor) | <https://github.com/dcycle/cert-expiry-monitor> |
 | [![CircleCI](https://circleci.com/gh/dcycle/dcbase.svg?style=svg)](https://circleci.com/gh/dcycle/dcbase) | <https://github.com/dcycle/dcbase> |
 | [![CircleCI](https://circleci.com/gh/dcycle/docker-geoipupdate.svg?style=svg)](https://circleci.com/gh/dcycle/docker-geoipupdate) | <https://github.com/dcycle/docker-geoipupdate> |
