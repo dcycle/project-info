@@ -63,12 +63,6 @@ Websites
 | Terre des jeunes | <http://github.com/tdjeunes/website> | GH pages | <https://www.terredesjeunes.org> | n/a | n/a | [694](https://docs.google.com/spreadsheets/d/1BkZyx4dyXsLVmCE6gvdc4XxGzIcDJ5GYBxn8DqtKSSQ/edit#gid=326144669) |
 | Dcycle Blog | <https://github.com/alberto56/dcycleblog> | GH pages | <https://blog.dcycle.com> | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/alberto56/dcycleblog/tree/gh-pages.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/alberto56/dcycleblog/tree/gh-pages) | [CI triggers](https://app.circleci.com/settings/project/github/alberto56/dcycleblog/triggers?return-to=https%3A%2F%2Fapp.circleci.com%2Fpipelines%2Fgithub%2Falberto56%2Fdcycleblog&success=true) | [36](https://docs.google.com/spreadsheets/d/1_sbxl_as4RzAXWjcayQuCbZSrTMWWeI5I6RlVCkWBBI/edit#gid=0) |
 
-Project
-
-| Badge | Github | Weekly |
-|-------|--------|--------|
-| [![CircleCI](https://circleci.com/gh/dcycle/starterkit-drupalsite/tree/master.svg?style=svg)](https://circleci.com/gh/dcycle/starterkit-drupalsite/tree/master) | <https://github.com/dcycle/starterkit-drupalsite> | [CI triggers](https://app.circleci.com/settings/project/github/dcycle/starterkit-drupalsite/triggers?return-to=https%3A%2F%2Fapp.circleci.com%2Fpipelines%2Fgithub%2Fdcycle%2Fstarterkit-drupalsite&success=true) |
-
 Projects (legacy)
 
 | Status       | Project | Stage | Prod | Server |
