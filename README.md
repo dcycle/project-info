@@ -18,6 +18,7 @@ Steward Acquia environments
 | stewardcommunity  | Steward Microservices |
 
 Docker images
+
 | Name       | Github    | Badge               | Rebuild job | Docker hub | Weekly |
 |------------|-----------|---------------------|-------------|------------|-|
 | steward-drupal | <http://github.com/hatch130/steward-docker-drupal> | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/steward-docker-drupal/tree/master.svg?style=svg&circle-token=80cfc429eddb058f4ce9168222eff05ed46e6001)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/steward-docker-drupal/tree/master) | [Jenkins](https://ci.dcycle.com/job/docker-steward-drupal/) | [Docker hub](http://hub.docker.com/r/dcycle/steward-drupal) | (upon rebuild) |
@@ -49,19 +50,18 @@ GH pages sites
 
 | Client | URL | GH | Status | Badge | Weekly |
 |--------|-----|----|--------|-------|--------|
-| Ahora (Hatch) | <https://www.ahoramoney.org> | <http://github.com/hatch130/ahora-frontend> | No maintenance | [![CircleCI](https://circleci.com/gh/hatch130/ahora-frontend/tree/master.svg?style=svg&circle-token=691b3d22542e912af3b09a661b3f002027789d0a)](https://circleci.com/gh/hatch130/ahora-frontend/tree/master) |
+| Ahora (Hatch) | <https://www.ahoramoney.org> | <http://github.com/hatch130/ahora-frontend> | No maintenance | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/ahora-frontend/tree/master.svg?style=svg&circle-token=b78e4aa1efc853223d322a26e56f9ef0c8ed0eed)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/ahora-frontend/tree/master) |
 
 Websites
 
 | Name       | Code                                               | Provider    | prod                         | status | weekly | broken |
 |------------|----------------------------------------------------|-------------|------------------------------|--------|--------|--------|
-| StaticAuth | <https://github.com/alberto56/staticauth> | D.O. albert | <https://www.staticauth.com> | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/alberto56/staticauth/tree/master.svg?style=svg&circle-token=bb632df7af30e5eaec5ae9c0109c64e833dae6b2)](https://dl.circleci.com/status-badge/redirect/gh/alberto56/staticauth/tree/master) | [CI triggers](https://app.circleci.com/settings/project/github/alberto56/staticauth/triggers?return-to=https%3A%2F%2Fapp.circleci.com%2Fpipelines%2Fgithub%2Falberto56%2Fstaticauth&success=true) | n/a |
-| Bioénergie Haïti | <https://github.com/alberto56/beh-site> | GH pages alberto56 | <https://www.bioenergiehaiti.org> | [![CircleCI](https://circleci.com/gh/alberto56/beh-site/tree/master.svg?style=svg&circle-token=4b52c6e32eab20a95d6d6e5cb39d099761abd3fd)](https://circleci.com/gh/alberto56/beh-site/tree/master) | [CI trigger](https://app.circleci.com/settings/project/github/alberto56/beh-site/triggers?return-to=https%3A%2F%2Fapp.circleci.com%2Fpipelines%2Fgithub%2Falberto56%2Fbeh-site&success=true) | 0 |
-| Bioénergie Togo | <https://github.com/alberto56/bioenergie-togo> | GH pages alberto56 | <https://www.bioenergietogo.org> | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/alberto56/bioenergie-togo/tree/master.svg?style=svg&circle-token=f3ff2227dacb67ba038d18a16f62d829fb2c4488)](https://dl.circleci.com/status-badge/redirect/gh/alberto56/bioenergie-togo/tree/master) | [CI Trigger](https://app.circleci.com/settings/project/github/alberto56/bioenergie-togo/triggers?return-to=https%3A%2F%2Fapp.circleci.com%2Fpipelines%2Fgithub%2Falberto56%2Fbioenergie-togo&success=true) | 0 |
+| StaticAuth | <https://github.com/alberto56/staticauth> | D.O. albert | <https://www.staticauth.com> | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/alberto56/staticauth/tree/master.svg?style=svg&circle-token=30dce3d54fbb2031652762abf6eda98a557377e9)](https://dl.circleci.com/status-badge/redirect/gh/alberto56/staticauth/tree/master) | [CI triggers](https://app.circleci.com/settings/project/github/alberto56/staticauth/triggers?return-to=https%3A%2F%2Fapp.circleci.com%2Fpipelines%2Fgithub%2Falberto56%2Fstaticauth&success=true) | n/a |
+| Bioénergie Haïti | <https://github.com/alberto56/beh-site> | GH pages alberto56 | <https://www.bioenergiehaiti.org> | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/alberto56/beh-site/tree/master.svg?style=svg&circle-token=e1b7acf028f39c26e56dcfc2a2089f3ec6061e77)](https://dl.circleci.com/status-badge/redirect/gh/alberto56/beh-site/tree/master) | [CI trigger](https://app.circleci.com/settings/project/github/alberto56/beh-site/triggers?return-to=https%3A%2F%2Fapp.circleci.com%2Fpipelines%2Fgithub%2Falberto56%2Fbeh-site&success=true) | 0 |
+| Bioénergie Togo | <https://github.com/alberto56/bioenergie-togo> | GH pages alberto56 | <https://www.bioenergietogo.org> | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/alberto56/bioenergie-togo/tree/master.svg?style=svg&circle-token=b80da4fb23e0af5060e78bef5a90283f7dba04d1)](https://dl.circleci.com/status-badge/redirect/gh/alberto56/bioenergie-togo/tree/master) | [CI Trigger](https://app.circleci.com/settings/project/github/alberto56/bioenergie-togo/triggers?return-to=https%3A%2F%2Fapp.circleci.com%2Fpipelines%2Fgithub%2Falberto56%2Fbioenergie-togo&success=true) | 0 |
 
 Projects
 
 | Status       | Project | Stage | Prod | Server |
 |------------|---------|--|--|--|
-| [![CircleCI](https://circleci.com/gh/hatch130/paymo-dashboard/tree/master.svg?style=svg&circle-token=2e1a83c27e35e87eebc461c9bfa34ce909e97880)](https://circleci.com/gh/hatch130/paymo-dashboard/tree/master) | <http://github.com/hatch/paymo-dashboard> | | | |
-| [![CircleCI](https://circleci.com/gh/hatch130/steward-docker-drupal.svg?style=svg&circle-token=d1a1f153aac0dfcf3fc67c8df8c439450803a11d)](https://circleci.com/gh/hatch130/steward-docker-drupal) [Dcycle Jenkins CI](https://ci.dcycle.com/job/docker-steward-drupal/) | [Steward base Docker image](https://github.com/hatch130/steward-docker-drupal) | ([see section "base images"](https://github.com/hatch130/steward-drupal8#base-images)) | ([see section "base images"](https://github.com/hatch130/steward-drupal8#base-images)) | [Docker Hub](https://hub.docker.com/r/dcycle/steward-drupal) ([see section "base images"](https://github.com/hatch130/steward-drupal8#base-images)) |
+| [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/paymo-dashboard/tree/master.svg?style=svg&circle-token=efc0bb741b393dc2200e6a8ef61558b808a68a43)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/paymo-dashboard/tree/master) | <http://github.com/hatch/paymo-dashboard> | | | |
