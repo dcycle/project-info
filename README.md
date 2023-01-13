@@ -20,7 +20,7 @@ Steward Acquia environments
 Docker images
 | Name       | Github    | Badge               | Rebuild job | Docker hub | Weekly |
 |------------|-----------|---------------------|-------------|------------|-|
-| steward-drupal | <http://github.com/hatch130/steward-docker-drupal> | [![CircleCI](https://circleci.com/gh/hatch130/steward-docker-drupal.svg?style=svg&circle-token=d1a1f153aac0dfcf3fc67c8df8c439450803a11d)](https://circleci.com/gh/hatch130/steward-docker-drupal) | [Jenkins](https://ci.dcycle.com/job/docker-steward-drupal/) | [Docker hub](http://hub.docker.com/r/dcycle/steward-drupal) | (upon rebuild) |
+| steward-drupal | <http://github.com/hatch130/steward-docker-drupal> | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/steward-docker-drupal/tree/master.svg?style=svg&circle-token=80cfc429eddb058f4ce9168222eff05ed46e6001)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/steward-docker-drupal/tree/master) | [Jenkins](https://ci.dcycle.com/job/docker-steward-drupal/) | [Docker hub](http://hub.docker.com/r/dcycle/steward-drupal) | (upon rebuild) |
 
 Steward Projects
 
