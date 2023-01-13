@@ -5,7 +5,7 @@ Monitoring
 
 | Status | Description | Period | Periodically |
 |--------|-------------|--------|--------------|
-| <a href="https://dl.circleci.com/status-badge/redirect/gh/alberto56/my-cert-expiry-monitor/tree/master"><img src="https://dl.circleci.com/status-badge/img/gh/alberto56/my-cert-expiry-monitor/tree/master.svg?style=svg&circle-token=16b2142fa54c3c5519e4b4943396ae5a967c1d94" /></a> | Certs I manage | Daily | [C.I triggers](https://app.circleci.com/settings/project/github/alberto56/my-cert-expiry-monitor/triggers) |
+| [![CircleCI](https://dl.circleci.com/status-badge/img/gh/alberto56/my-cert-expiry-monitor/tree/master.svg?style=svg&circle-token=5e476a011627f795a9950357d800bf950185211d)](https://dl.circleci.com/status-badge/redirect/gh/alberto56/my-cert-expiry-monitor/tree/master) | Certs I manage | Daily | [C.I triggers](https://app.circleci.com/settings/project/github/alberto56/my-cert-expiry-monitor/triggers) |
 
 Steward Acquia environments
 
