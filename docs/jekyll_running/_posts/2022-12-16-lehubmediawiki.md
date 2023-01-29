@@ -6,4 +6,6 @@ weekly: "https://app.circleci.com/settings/project/github/LeHubca/lehub-mediawik
 sites:
 - https://fr.wiki.lehub.ca/
 - https://en.wiki.lehub.ca/
+cron:
+monitor:
 ---

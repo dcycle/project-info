@@ -110,6 +110,8 @@ layout: basic
     <th>GitHub</th>
     <th>Weekly rebuild</th>
     <th>URLs</th>
+    <th>Cron</th>
+    <th>Tests</th>
   </tr>
   {% for site in site.categories.jekyll_running %}
   <tr>
@@ -119,6 +121,16 @@ layout: basic
     <td><a href="{{ site.weekly }}" target="_blank">Weekly</a></td>
     <td><ul>
       {% for url in site.sites %}
+      <li><a href="{{ url }}" target="_blank">{{ url }}</a></li>
+      {% endfor %}
+    </ul></td>
+    <td><ul>
+      {% for url in site.cron %}
+      <li><a href="{{ url }}" target="_blank">{{ url }}</a></li>
+      {% endfor %}
+    </ul></td>
+    <td><ul>
+      {% for url in site.tests %}
       <li><a href="{{ url }}" target="_blank">{{ url }}</a></li>
       {% endfor %}
     </ul></td>
