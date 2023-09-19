@@ -64,3 +64,4 @@ Projects
 | Status       | Project | Stage | Prod | Server |
 |------------|---------|--|--|--|
 | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/paymo-dashboard/tree/master.svg?style=svg&circle-token=efc0bb741b393dc2200e6a8ef61558b808a68a43)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/paymo-dashboard/tree/master) | <http://github.com/hatch/paymo-dashboard> | | | |
+| [![CircleCI](https://dl.circleci.com/status-badge/img/gh/hatch130/birdcode/tree/master.svg?style=svg&circle-token=2a491fc1a192630f45fe8f1bdea16299153d5269)](https://dl.circleci.com/status-badge/redirect/gh/hatch130/birdcode/tree/master) | <https://github.com/hatch130/birdcode> | | | |
