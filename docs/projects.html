@@ -91,6 +91,7 @@ layout: basic
     <th>Name</th>
     <th>GitHub</th>
     <th>Weekly rebuild</th>
+    <th>Live</th>
   </tr>
   {% for site in site.categories.jekyll_starterkits %}
   <tr>
@@ -98,6 +99,11 @@ layout: basic
     <td>{{ site.title }}</td>
     <td><a href="{{ site.github }}" target="_blank">GitHub</a></td>
     <td><a href="{{ site.weekly }}" target="_blank">Weekly</a></td>
+    <td>
+      {% if site.live %}
+        <a href="{{ site.live }}" target="_blank">Live</a>
+      {% endif %}
+    </td>
   </tr>
   {% endfor %}
 </table>
